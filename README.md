@@ -27,4 +27,4 @@ https://www.linkedin.com/in/claes-folkestad-824115224/
 - ⚡ Fun fact: 
 I started studies in archaeology, engineering and finished a degree in social work towards adolescents.
 
-Directly translated, the european placenames Provence, Köln (Cologne) and Bayern (Bavaria) is inherited from the Romans. These places were in order called 'The Province', 'The Colony' and 'Land of the Barbarians'. 
+Directly translated, the european placenames Provence, Köln (Cologne) and Bayern (Bavaria) are inherited from the Romans. These places were in order called 'The Province', 'The Colony' and 'Land of the Barbarians'. 
