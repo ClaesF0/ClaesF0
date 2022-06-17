@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
-wrapping up first year of a two-year course in Frontend-development at Noroff School of Technology and Digital Media
+- 🔭 I’m currently working on wrapping up first year of a two-year course in Frontend-development at Noroff School of Technology and Digital Media
 
-- 🌱 I’m currently learning ...
-React in order to stay ahead of curriculum second year, as well as brush up on JavaScript and build Arduinos that run on a 'dialect' of c/c++. Will probably do some shifts at a digital marketing firm doing CMS.
+- 🌱 I’m currently learning React in order to stay ahead of curriculum second year, as well as brush up on JavaScript and build Arduinos that run on a 'dialect' of c/c++. Will probably do some shifts at a digital marketing firm doing CMS.
 
-- 🤔 I’m looking for help with ...
-anything that can help me improve as a programmer! :)
+- 🤔 I’m looking for help with anything that can help me improve as a programmer! :)
 
 - 📫 How to reach me: 
 https://www.linkedin.com/in/claes-folkestad-824115224/
