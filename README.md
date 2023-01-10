@@ -30,3 +30,6 @@ I worked in nightlife alongside studies in archaeology and engineering before fi
 - ⚡ Fun fact: 
 Directly translated, the european placenames Provence, Köln (Cologne) and Bayern (Bavaria) are inherited from the Romans. 
 These places were in order called 'The Province', 'The Colony' and 'Land of the Barbarians'. 
+
+[![Claes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaesF0)](https://github.com/ClaesF0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaesF0)](https://github.com/ClaesF0/github-readme-stats)
