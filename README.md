@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Portfolio: www.claesfolkestad.com
 
 - 🔭 I’m currently working on wrapping up second year of a two-year course in Frontend-development at Noroff School of Technology and Digital Media
 
