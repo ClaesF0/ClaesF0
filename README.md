@@ -29,5 +29,7 @@ Portfolio: www.claesfolkestad.com
 - 😄 About me:
 I worked in nightlife alongside studies in archaeology and engineering before finishing a degree in social work towards adolescents, and worked within specialized healthcare for a number of years before deciding to make development my forever-field.
 
+<iframe src="https://scratch.mit.edu/projects/910826046/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 [![Claes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaesF0)](https://github.com/ClaesF0/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaesF0)](https://github.com/ClaesF0/github-readme-stats)
